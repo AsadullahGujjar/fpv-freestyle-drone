@@ -1,6 +1,6 @@
 # FPV Freestyle Drone: Design, Build and Optimisation
 
-<p align="center"><img src="images/hero.png" width="420" alt="Assembled FPV freestyle drone"></p>
+<p align="center"><img src="images/complete-3.jpg" width="640" alt="Assembled FPV freestyle drone, ready to fly"></p>
 
 A custom-built FPV (first-person view) freestyle quadcopter, designed, assembled, configured and flight-tested as my Bachelor's thesis at **Tomas Bata University in Zlín, Faculty of Applied Informatics** (defended June 2025).
 
